@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá, sou o matosmelo 👋
 
-<!--
-**matosmelo/matosmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 Sou líder técnico na empresa [Digesto](https://github.com/digesto).
+- 📖 Atualmente estou estudando:
+  - Arquitetura em nuvem
+  - FastAPI
+  - Async em python
+  - Gerenciamento de pessoas
+  - ...
+- 🌱 Estou desenvolvendo e colaborando no [BCB](https://github.com/blackcodebrasil).
+- 🇧🇷 São Paulo / SP
 
-Here are some ideas to get you started:
+  <a href="https://br.linkedin.com/in/felipematosmelo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/felipematosmelo"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-gray?style=flat-square&logo=twitter"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![matosmelo github stats](https://github-readme-stats.vercel.app/api?username=matosmelo&show_icons=true&theme=tokyonight)](https://github.com/matosmelo)
+
