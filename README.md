@@ -7,7 +7,7 @@
   - Async em python
   - Gerenciamento de pessoas
   - ...
-- 🌱 Estou desenvolvendo e colaborando no [BCB](https://github.com/blackcodebrasil).
+- 🌱 Estou desenvolvendo e colaborando no [BCB](http://www.blackcodebrasil.com.br/).
 - 🇧🇷 São Paulo / SP
 
   <a href="https://br.linkedin.com/in/felipematosmelo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gray?style=flat-square&logo=linkedin"></a>
