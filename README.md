@@ -1,7 +1,7 @@
 ### Olá, sou o matosmelo 👋
 
-- 🧑‍💻 Sou líder técnico na empresa [Digesto](https://github.com/digesto).
-- 📖 Atualmente estou estudando Arquitetura em nuvem, FastAPI, Async em python, Gerenciamento de pessoas...
+- 🧑‍💻 Sou Engineering Manager na empresa [Jusbrasil](https://github.com/jusbrasil).
+- 📖 Atualmente estou estudando Modelo e Notação de Processos de Negócios (BPMN)
 - 🌱 Estou desenvolvendo e colaborando no [BCB](http://www.blackcodebrasil.com.br/).
 - 🇧🇷 São Paulo / SP
 
